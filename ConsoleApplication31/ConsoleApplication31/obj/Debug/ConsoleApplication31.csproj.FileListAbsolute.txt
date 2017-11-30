@@ -1,0 +1,5 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.pdb
